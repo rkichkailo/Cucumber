@@ -3,7 +3,7 @@ Feature: As a logged in/not logged in user
   On hovering the CarMarket menu section
   So I can navigate through the available categories
 
-  @smoke
+@smoke
   Scenario: CarMarket sub menu should contain appropriate categories
     Given the user opens Onliner website
     Then main navigation menu is displayed

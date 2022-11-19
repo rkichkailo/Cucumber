@@ -1,11 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="01c627e8-b009-420f-8e47-1a5e489b5a7b" name="Changes" comment="" />
+    <list default="true" id="01c627e8-b009-420f-8e47-1a5e489b5a7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/com/it_academy/onliner/features/HousesAndFlats.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it_academy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/framework/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/framework/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/framework/CommonSelElementUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/framework/CommonSelElementUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/navigation/OnlinerNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/navigation/OnlinerNavigation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/page_object/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/page_object/Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/page_object/HeaderSubMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/page_object/HeaderSubMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/page_object/OnlinerHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/it_academy/onliner/page_object/OnlinerHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/steps/CarMarketSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/steps/CarMarketSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/steps/HousesAndFlatsSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/it_academy/onliner/steps/HousesAndFlatsSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/CarMarket.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/com/it_academy/onliner/features/CarMarket.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/HousesAndFlats.feature" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HlFfe7g309IehBAeoqNs1IRxwR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +49,177 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/ProjectsAcademy/AutomationExamples/BDDTest",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Gherkin"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProjectsAcademy\AutomationRK\Cucumber\src\test\resources\com\it_academy\onliner\features" />
+      <recent name="D:\ProjectsAcademy\AutomationRK\Cucumber\src\test\resources\com.it_academy.onliner.features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Smoke cucumber">
+    <configuration name="Feature: HousesAndFlats" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/HousesAndFlats.feature" />
+      <option name="GLUE" value="com.it_academy.onliner.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: HousesAndFlats" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: CarMarket sub menu should contain appropriate categories (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com/it_academy/onliner/features/CarMarket.feature" />
+      <option name="GLUE" value="com.it_academy.onliner.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber" />
+      <option name="NAME_FILTER" value="^CarMarket sub menu should contain appropriate categories$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^CarMarket sub menu should contain appropriate categories$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: CarMarket sub menu should contain appropriate categories" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: CarMarket sub menu should contain appropriate categories" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/CarMarket.feature" />
+      <option name="GLUE" value="com.it_academy.onliner.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber" />
+      <option name="NAME_FILTER" value="^CarMarket sub menu should contain appropriate categories$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^CarMarket sub menu should contain appropriate categories$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: CarMarket sub menu should contain appropriate categories" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: HousesAndFlats sub menu should contain appropriate categories" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com.it_academy.onliner.features/HousesAndFlats.feature" />
+      <option name="GLUE" value="com.it_academy.onliner.steps" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Cucumber" />
+      <option name="NAME_FILTER" value="^HousesAndFlats sub menu should contain appropriate categories$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^HousesAndFlats sub menu should contain appropriate categories$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: HousesAndFlats sub menu should contain appropriate categories" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Smoke cucumber" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dcucumber.options=--tags @smoke" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="TestRunner" type="TestNG" temporary="true">
+      <module name="Cucumber" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it_academy.onliner.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.it_academy.onliner.runner" />
+      <option name="MAIN_CLASS_NAME" value="com.it_academy.onliner.runner.TestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: CarMarket sub menu should contain appropriate categories (1)" />
+      <item itemvalue="Cucumber Java.Feature: HousesAndFlats" />
+      <item itemvalue="Cucumber Java.Scenario: CarMarket sub menu should contain appropriate categories" />
+      <item itemvalue="Cucumber Java.Scenario: HousesAndFlats sub menu should contain appropriate categories" />
+      <item itemvalue="Maven.Smoke cucumber" />
+      <item itemvalue="TestNG.TestRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: CarMarket sub menu should contain appropriate categories (1)" />
+        <item itemvalue="TestNG.TestRunner" />
+        <item itemvalue="Cucumber Java.Feature: HousesAndFlats" />
+        <item itemvalue="Cucumber Java.Scenario: HousesAndFlats sub menu should contain appropriate categories" />
+        <item itemvalue="Cucumber Java.Scenario: CarMarket sub menu should contain appropriate categories" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
